@@ -903,7 +903,7 @@ function History() {
           </div>
         </section>
 
-        // RECENT MEASUREMENTS 
+        {/* RECENT MEASUREMENTS */} 
         <section className="relative border border-[rgba(56,117,158,0.27)] rounded-[14px] bg-[linear-gradient(145deg,rgba(6,24,38,0.96),rgba(3,12,23,0.98))] shadow-[0_10px_30px_rgba(0,0,0,0.27),0_0_28px_rgba(0,130,200,0.045),inset_0_0_28px_rgba(0,130,190,0.02)] overflow-hidden min-h-[170px] max-[850px]:min-[951px]:min-h-[155px] p-[14px_18px_10px] after:content-[''] after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-[linear-gradient(125deg,rgba(0,210,255,0.045),transparent_25%,transparent_70%,rgba(166,72,255,0.045))]">
           <div className="relative z-10 min-h-[38px] flex items-start justify-between">
             <div>

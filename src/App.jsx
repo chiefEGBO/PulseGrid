@@ -5,7 +5,7 @@ import ProtectedRoute from './components/ProtectedRoutes';
 import Splash from './pages/Auth/Splash';
 import Login from './pages/Auth/Login';
 import Register from './pages/Auth/Register';
-import Measurement from './pages/Measurement/Measurement';
+import Measurement from './pages/Dashboard/Measurement';
 import History from './pages/History/History';
 import Reports from './pages/Reports/Reports';
 import Learn from './pages/Learn/Learn';

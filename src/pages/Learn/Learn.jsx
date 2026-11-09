@@ -338,7 +338,7 @@ function Learn() {
                 <div className="absolute h-80 w-[500px] rounded-full bg-gradient-to-r from-[#00c8ff]/25 via-[#7b4dff]/30 to-[#ff3cac]/20 opacity-[0.03] blur-3xl" />
 
                 {/* Image container with increased vertical height aspect-[4/3] */}
-                <div className="relative z-10 aspect-[4/3] w-full max-w-md overflow-hidden rounded-2xl border border-[#00c8ff]/30 bg-[#000000] shadow-[0_0_40px_rgba(0,200,255,0.3)]">
+                <div className="relative z-10 aspect-[4/3] w-full max-w-md overflow-hidden rounded-2xl border border-[#00c8ff]/30 bg-[#000000] shadow-[0_0_40px_rgba(0,200,255,0.0)]">
                   <img
                     src={featuredArticle.image}
                     alt="2D Educational Human Heart Anatomy Cross-Section"
