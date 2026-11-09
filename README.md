@@ -2,12 +2,7 @@
 
 ### Web-Based Heart Rate & Blood Oxygen Monitoring System
 
-[![ESP32](https://shields.io)](https://espressif.com)
-[![React](https://shields.io)](https://react.dev)
-[![Firebase](https://shields.io)](https://google.com)
-[![License: MIT](https://shields.io)](https://opensource.org)
-
-**PulseGrid** is a full-stack, IoT-enabled health monitoring system that seamlessly combines embedded systems, cloud computing, and modern web technologies. It features real-time physiological data capture from an optical sensor, processing via an **ESP32 microcontroller**, and zero-latency visualization on a customized **React web application** powered by **Firebase**.
+**PulseGrid** is a full-stack, IoT-enabled health monitoring system that seamlessly combines embedded systems, cloud computing, and modern web technologies. It features real-time physiological data capture from an optical sensor, processing via an **ESP32 microcontroller**, and low-latency visualization on a customized **React web application** powered by **Firebase**.
 
   *This project was developed as a practical implementation of an IoT ecosystem. It successfully bridges hardware and software engineering through low-level firmware signal conditioning, wireless data transmission via edge devices, and a real-time webapp, backed by a scalable, authenticated cloud data infrastructure.*
 
@@ -132,7 +127,7 @@ PulseGrid/
 ### 1. Web Application Setup
 First, clone the repository and navigate to the project directory:
 ```bash
-git clone https://github.com
+git clone https://github.com/chiefEGBO/PulseGrid.git
 cd PulseGrid
 ```
 
@@ -172,4 +167,3 @@ npm run dev
 - **Clinical Validation:** **PulseGrid is an academic engineering prototype.** It is not a clinically validated medical device and should never be used as a substitute for certified medical instruments or professional diagnostics. This system does not monitor blood pressure.
 
 ---
-
